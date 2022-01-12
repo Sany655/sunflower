@@ -1,0 +1,119 @@
+[
+    {
+        "id": 1,
+        "name": "James",
+        "age": 34,
+        "sector": "web dev",
+        "skils": "javasicpt",
+        "img": "https://img.freepik.com/free-photo/handsome-confident-smiling-man-with-hands-crossed-chest_176420-18743.jpg?size=626&ext=jpg",
+        "salary": 25000
+    },
+    {
+        "id": 2,
+        "name": "David",
+        "age": 27,
+        "sector": "web dev & android dev",
+        "skils": "javasicpt,java",
+        "img": "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "salary": 55000
+    },
+    {
+        "id": 3,
+        "name": "Christopher",
+        "age": 42,
+        "sector": "android dev",
+        "skils": "java,kotlin",
+        "img": "https://media.istockphoto.com/photos/mature-mixed-race-business-man-picture-id1059661424?k=20&m=1059661424&s=612x612&w=0&h=CLL4tto10GPo1gtMR9c-kPmf8VkvodjvTyqvtEuTLtg=",
+        "salary": 35000
+    },
+    {
+        "id": 4,
+        "name": "John",
+        "age": 27,
+        "sector": "web dev",
+        "skils": "javasicpt",
+        "img": "https://images.unsplash.com/photo-1586083702768-190ae093d34d?ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8aGFuZHNvbWUlMjBtYW58ZW58MHx8MHx8&ixlib=rb-1.2.1&w=1000&q=80",
+        "salary": 15000
+    },
+    {
+        "id": 5,
+        "name": "Robert",
+        "age": 34,
+        "sector": "marketer",
+        "skils": "social,email,any king of marketing",
+        "img": "https://img.freepik.com/free-photo/waist-up-portrait-handsome-serious-unshaven-male-keeps-hands-together-dressed-dark-blue-shirt-has-talk-with-interlocutor-stands-against-white-wall-self-confident-man-freelancer_273609-16320.jpg?size=626&ext=jpg",
+        "salary": 40000
+    },
+    {
+        "id": 6,
+        "name": "Michael",
+        "age": 25,
+        "sector": "designer",
+        "skils": "illustrator",
+        "img": "https://static.toiimg.com/photo/83890830/83890830.jpg?v=3",
+        "salary": 35000
+    },
+    {
+        "id": 7,
+        "name": "William",
+        "age": 25,
+        "sector": "marketer",
+        "skils": "marketer",
+        "img": "https://cdn.shopify.com/s/files/1/0045/5104/9304/t/27/assets/AC_ECOM_SITE_2020_REFRESH_1_INDEX_M2_THUMBS-V2-1.jpg?v=8913815134086573859",
+        "salary": 25000
+    },
+    {
+        "id": 8,
+        "name": "Richard",
+        "age": 31,
+        "sector": "marketer",
+        "skils": "marketer",
+        "img": "https://static01.nyt.com/images/2021/08/04/multimedia/04xp-lynching/04xp-lynching-mobileMasterAt3x.jpg",
+        "salary": 29000
+    },
+    {
+        "id": 9,
+        "name": "Charles",
+        "age": 34,
+        "sector": "manager",
+        "skils": "manager",
+        "img": "https://www.mantruckandbus.com/fileadmin/_processed_/2/b/csm_19-09_startseite_interviewkachel_324_224_3_726a3e77d5.jpg",
+        "salary": 60000
+    },
+    {
+        "id": 10,
+        "name": "Joseph",
+        "age": 27,
+        "sector": "influancer",
+        "skils": "influancer",
+        "img": "https://images.unsplash.com/photo-1503443207922-dff7d543fd0e?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bWVufGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80",
+        "salary": 90000
+    },
+    {
+        "id": 11,
+        "name": "Thomas",
+        "age": 29,
+        "sector": "influancer",
+        "skils": "influancer",
+        "img": "https://media.istockphoto.com/photos/portrait-of-smiling-handsome-man-in-blue-tshirt-standing-with-crossed-picture-id1045886560?k=20&m=1045886560&s=612x612&w=0&h=JL8Dy_sRUXJo6PofsX7XkQpWjSTDhD8LuV071LMlb3Y=",
+        "salary": 80000
+    },
+    {
+        "id": 12,
+        "name": "Daniel",
+        "age": 35,
+        "sector": "marketer",
+        "skils": "marketer",
+        "img": "https://media.istockphoto.com/photos/portrait-of-a-handsome-black-man-picture-id1289461328?b=1&k=20&m=1289461328&s=170667a&w=0&h=SpRhSvRMO7UkXWo52mV9bf0bo6au6kC-2wsOGsQ0D2Y=",
+        "salary": 35000
+    },
+    {
+        "id": 13,
+        "name": "Paul",
+        "age": 33,
+        "sector": "android dev",
+        "skils": "react native, vue native, java",
+        "img": "https://media.istockphoto.com/photos/smiling-man-outdoors-in-the-city-picture-id1179420343?k=20&m=1179420343&s=612x612&w=0&h=G2UGMVSzAXGAQs3pFZpvWlHNRAzwPIWIVtSOxZHsEuc=",
+        "salary": 25000
+    }
+]
